@@ -1,2 +1,2 @@
 # Keystone-Todoapp
-The To-Do app template for Kaytone JS
+The To-Do app template for Keystone JS
